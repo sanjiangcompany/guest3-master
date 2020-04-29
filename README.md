@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> 4b365be9377591abbd3c230c4119a21d7f406b27
 
 ### Python版本与依赖库：
   * python 3.6 + : https://www.python.org/
