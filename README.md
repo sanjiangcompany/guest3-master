@@ -1,12 +1,7 @@
-# guest3
-
-基于Django的简易发布会签到系统（基于 Dango3.0）。
-
-__注：本项目与书上的代码会有一些差异。__
 
 ### Python版本与依赖库：
   * python 3.6 + : https://www.python.org/
-  * Django 3.0 + : https://www.djangoproject.com/
+  * Django 2.0.7 + : https://www.djangoproject.com/
   * PyMySQL 0.8.0: https://github.com/PyMySQL/PyMySQL
   * pycryptodome 3.7.3：https://github.com/Legrandin/pycryptodome 
 
